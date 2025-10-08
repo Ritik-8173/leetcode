@@ -10,7 +10,7 @@ bool isPrime(int n) {
     }
     return true;
 }
-
+//main function
 int main() {
     int num;
     cout << "Enter a number: ";
